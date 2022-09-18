@@ -1,7 +1,7 @@
 <!-- 
-👋👋👋👋👋👋👋👋👋👋👋👋👋👋
-👋👋👋Hello Friend!👋👋👋👋
-👋👋👋👋👋👋👋👋👋👋👋👋👋👋
+#############################
+######  Hello Friend   ######
+
 
 Thanks for Submitting a pull request. Before you hit that button please make sure:
 
